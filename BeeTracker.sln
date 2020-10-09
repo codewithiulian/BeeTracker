@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeTracker", "BeeTracker.csproj", "{4CEAF4BC-3182-4996-B645-39708417DDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEAF4BC-3182-4996-B645-39708417DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEAF4BC-3182-4996-B645-39708417DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEAF4BC-3182-4996-B645-39708417DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEAF4BC-3182-4996-B645-39708417DDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1642E1B7-E618-483B-B321-F96C1DD8179A}
+	EndGlobalSection
+EndGlobal
